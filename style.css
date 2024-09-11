@@ -4,4 +4,9 @@
   --bg-color: #0B666A;
   --primary-color: #35A29F
   --segundary-color: #97FEED:
+  --font: "Nunito Sans", sans-serif;
+}
+
+body {
+  background-color: var(--bg-color);
 }
